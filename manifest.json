@@ -1,0 +1,22 @@
+{
+  "short_name": "Brahma Path",
+  "name": "Brahma Path: 108-Day Journey",
+  "description": "A sacred 108-day journey to self-mastery, discipline, and spiritual transformation.",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3655/3655562.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3655/3655562.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#414A37",
+  "background_color": "#DBC2A6",
+  "orientation": "portrait"
+}

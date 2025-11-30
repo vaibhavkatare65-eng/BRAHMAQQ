@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Brahma Path",
+  "description": "A sacred 108-day journey to self-mastery, discipline, and spiritual transformation.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
